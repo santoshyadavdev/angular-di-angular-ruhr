@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angulardi"
+    }
+  },
+  "defaultProject": "angulardi",
+  "cli": {
+    "analytics": false
+  }
 }
